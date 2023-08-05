@@ -1,0 +1,8 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "\/Applications\/love.app\/Contents\/MacOS\/love \".\/\""
+    }
+  }
+}
